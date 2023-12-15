@@ -1,0 +1,6 @@
+venv
+/movies.pkl
+/Procfile
+/requirements.txt
+/setup.sh
+/similarity.pkl
